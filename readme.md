@@ -1,6 +1,6 @@
 # Pharmacy Finder
 ### Setup Instructions
-###### (Note - this guide assumes you are using Mac/Linux.)
+###### (Note - this guide assumes you are using Mac/Linux and have VirtualBox and Vagrant installed.)
 
 Unzip Christen Ward - Pharmacy Finder API. Place the Code folder in ~ .
 Open your terminal.
